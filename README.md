@@ -132,7 +132,7 @@ Die Kombination aus Einkaufsvolumen, Lieferzeit und Reklamationsquote ermöglich
 
 Das interaktive Power-BI-Dashboard bietet einen zentralen Überblick über die wichtigsten Einkaufskennzahlen und ermöglicht Analysen nach Zeitraum, Kategorie und Lieferant.
 
-![Procurement KPI Dashboard](images/dashboard.png)
+<img src="./images/dashboard.png" alt="Procurement KPI Dashboard" width="100%">
 
 ## Projekt ausführen
 
