@@ -1,0 +1,11 @@
+order_id,order_date,supplier,product,category,quantity,unit_price,total_cost,delivery_days,complaint
+PO-050001,2026-08-01,BioHarvest GmbH,Bananen,Obst & Gemüse,500,1.20,600.00,3,Nein
+PO-050002,2026-08-02,AgroFresh GmbH,TK-Gemüse,Tiefkühlprodukte,400,2.80,1120.00,3,Nein
+PO-050003,2026-08-03,FoodSupply GmbH,Milch,Milchprodukte,700,1.10,770.00,4,Nein
+PO-050004,2026-08-04,EuroFoods GmbH,Reis,Getreide,600,1.90,1140.00,4,Nein
+PO-050005,2026-08-05,NordFood GmbH,Butter,Milchprodukte,300,2.30,690.00,4,Ja
+PO-050006,2026-08-06,FreshTrade GmbH,Nudeln,Getreide,450,1.20,540.00,5,Nein
+PO-050007,2026-08-07,GreenFields GmbH,Äpfel,Obst & Gemüse,800,1.50,1200.00,6,Ja
+PO-050008,2026-08-08,LandGut GmbH,Kartoffeln,Obst & Gemüse,900,0.90,810.00,7,Nein
+PO-050009,2026-08-09,BioHarvest GmbH,Käse,Milchprodukte,250,5.20,1300.00,3,Nein
+PO-050010,2026-08-10,AgroFresh GmbH,Hähnchen,Fleisch,200,6.50,1300.00,3,Nein

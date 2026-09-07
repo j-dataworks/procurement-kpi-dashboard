@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment variables / secrets
+.env
+
+# Temporary files
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Power BI temporary files
+~$*.pbix
+
+# IDE
+.vscode/
+
+
+# Generated / large data files
+data/processed/
