@@ -115,6 +115,8 @@ procurement-kpi-dashboard/
 └── README.md
 
 
+```
+
 
 ## Zentrale Erkenntnisse
 
